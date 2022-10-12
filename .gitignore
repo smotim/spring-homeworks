@@ -4,4 +4,4 @@
 ./.git
 ./traget
 /.idea
-/./target/
+**/target/
