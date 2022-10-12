@@ -2,6 +2,6 @@
 /.idea/
 /simple_mvc.iml
 ./.git
-./traget
+./traget/
 /.idea
 **/target/
