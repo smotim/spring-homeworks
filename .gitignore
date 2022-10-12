@@ -1,8 +1,8 @@
 /target/
-/.idea/
+/hw1/.idea/
 /simple_mvc.iml
 ./.git
 ./traget/
-/.idea
+/hw1/.idea
 **/target/
 **/.idea/
