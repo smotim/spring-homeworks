@@ -5,5 +5,7 @@
 ./traget/
 /hw1/.idea
 /hw1/target/
+**/target/
+**/.idea/
 /HW2?/.idea/
 
