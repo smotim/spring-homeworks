@@ -4,6 +4,6 @@
 ./.git
 ./traget/
 /hw1/.idea
-**/target/
-**/.idea/
+/hw1/target/
 /HW2?/.idea/
+
